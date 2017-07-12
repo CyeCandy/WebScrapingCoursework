@@ -1,2 +1,2 @@
 # WebScrapingCoursework
-Web Scraping Coursework - with Beautiful Sup
+Web Scraping Coursework - with Beautiful Soup
